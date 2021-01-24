@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**huynhhuy100/huynhhuy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I am currently looking for a Job
 - 🌱 I’m used to studying at FPT POLYTECHNIC HCM
 - 🤔 I’m looking for help with Job
